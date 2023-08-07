@@ -1,17 +1,24 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-(fill in your description and goals here)
+
+This analysis would benefit people who are looking forward to buy a property OR already have a property in New York City and are considering to become an Airbnb host to earn an extra income. This analysis will provide gaze at the current airbnb market.
+
 
 ## Process
-### (your step 1)
-### (your step 2)
+### performed EDA on the data to examine useful dimensions and measure for the project
+### created visual insights of the analysis 
 
 ## Results
-(Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
+
+manhattan contains the most Airbnb listings and most popular type of realestatete in the borough are appartmants, houses and lofts respectively. Manhatten is also one of the most expensive average price per night.
+other interesting insights can be seen in the dashboard
+
 
 ## Challenges 
-(discuss challenges you faced in the project)
+
+Lack of enough data andtime was one of the issues that I faced, Although it was enough to accomplish deliverables within the scope of the project but I wanted to include insights relating to occupancy of a listing if I had more data or more time to look for that data.
 
 ## Future Goals
-(what would you do if you had more time?)
+
+My future plan for this project is to bring in data on occupancy rate for each listing so I can better predict the revenue generated from each type of listings. Also I would like to add more cities to this research.
